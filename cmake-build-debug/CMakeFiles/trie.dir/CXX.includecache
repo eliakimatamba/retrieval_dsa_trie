@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/CLionProjects/trie/trie.cpp
+iostream
+-
+trie.h
+C:/Users/user/CLionProjects/trie/trie.h
+
+C:/Users/user/CLionProjects/trie/trie.h
+
